@@ -15,6 +15,7 @@ This section serves as a curated collection of valuable resources for learning a
 - [Youtube Channels](#youtube-channels)
 - [Coding Platforms](#coding-platforms)
 - [Practice Sheets](#sheets)
+- [Interview](#interview)
 - [Conclusion](#conclusion)
 
 ### Roadmap
@@ -34,10 +35,6 @@ This section serves as a curated collection of valuable resources for learning a
     <td><a href="https://www.youtube.com/watch?v=N2FnB3HiDDU">3 Months DSA Roadmap to Get a Job</a></td>
     <td>A 3-month journey to rock Data Structures and Algorithms (DSA)! Whether you're new to this or polishing your skills, this roadmap's got your back. Let's navigate the DSA world together and crush it!
 Let's make coding fun and exciting! 🚀.</td>
-  </tr>
-  <tr>
-  <td><a href="https://www.naukri.com/code360/library/complete-data-structures-and-algorithms-roadmap-for-placements">DSA Roadmap for beginners</a></td>
-  <td>This article will lay down a complete DSA roadmap for any beginner to obtain proficiency in solving complex computational challenges needed to crack any top product-based companies</td>
   </tr>
 </table>
 
@@ -189,11 +186,7 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 <tr>
 <td><a href="https://www.interviewbit.com/practice/"> Interviewbit </a></td>
-<td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags.</td>
-</tr>
-<tr>
-<td><a href="https://www.geeksforgeeks.org/">GeeksforGeeks </a></td>
-<td> GeeksforGeeks has a dedicated practicing platform where people can go and practice problems by sorting them by Company Name and difficulty.</td>
+<td> Interviewbit is a platform, providing preparation for technical interviews, coding interviews. Has a vast list of coding questions from all topics along with their company tags </td>
 </tr>
 </table>
 
@@ -225,6 +218,75 @@ To the Point, Short and Practical - These 3 terms defines our Content
 <td> This DSA sheet by Apna College is a valuable resource for Data Structures & Algorithms with around 400 problems topic-wise and the companies that have asked the problem. </td>
 </tr>
 </table>
+
+### Algorithms by Languages
+Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
+### JavaScript
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=P6XGSKO2RzI&t=519s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in javascript and tells about importance of quick sort</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=x_Z9FcAPmbk&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in javascript in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=75jGy1xAhhs&t=2s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search  and provides implementation in javascript .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+</table>
+
+### Java
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=h8eyY7dIiN4&t=2s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in Java and tells about importance of quick sort.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=bOk35XmHPKs&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in java in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=NFhOrxtXXcM&t=1s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search and provides implementation in java .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+</table>
+
+### Python
+
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=kFeXwkgnQ9U&t=1s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in Python and tells about importance of quick sort</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in Python in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search and provides implementation in Python .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+
+
+</table>
+
 
 ###  Conclusion
 
